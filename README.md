@@ -1,4 +1,4 @@
-Particle Life Simulation
+#Particle Life Simulation
 This is a particle-based life simulation implemented using Pygame. The simulation demonstrates the interaction between different particles based on predefined forces. Each particle type interacts with others through attraction or repulsion, resulting in dynamic and emergent behavior.
 
 Features
