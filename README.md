@@ -10,15 +10,9 @@ Visualization: Displays the particles and the force matrix in real-time.
 Requirements
 Python 3.7+
 Pygame 2.0+
-Installation
-Clone the repository:
 
 
-git clone https://github.com/yourusername/particle-life-simulation.git
-cd particle-life-simulation
 Install the required packages:
-
-
 pip install pygame
 Usage
 Run the simulation:
